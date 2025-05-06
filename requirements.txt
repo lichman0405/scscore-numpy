@@ -1,0 +1,5 @@
+numpy
+rdkit
+fastapi
+uvicorn
+pydantic
